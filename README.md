@@ -7,6 +7,7 @@ Discover a diverse collection of JavaScript projects in this repository, ranging
 | App             | Demo                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Todo List | https://github.com/keeplay20/JavaScript-Projects/tree/main/TodoList |
+| Drum Kit | https://github.com/keeplay20/JavaScript-Projects/tree/main/DrumKit |
 
 ## Feedback
 
