@@ -9,6 +9,7 @@ Discover a diverse collection of JavaScript projects in this repository, ranging
 | Todo List | https://github.com/keeplay20/JavaScript-Projects/tree/main/TodoList |
 | Drum Kit | https://github.com/keeplay20/JavaScript-Projects/tree/main/DrumKit |
 | Clock | https://github.com/keeplay20/JavaScript-Projects/tree/main/Clock |
+| Image Blur | https://github.com/keeplay20/JavaScript-Projects/tree/main/ImageBlur |
 
 ## Feedback
 
